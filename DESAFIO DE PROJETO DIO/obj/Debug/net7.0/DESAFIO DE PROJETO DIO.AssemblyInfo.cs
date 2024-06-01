@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DESAFIO DE PROJETO DIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32edd5568d45c6078c19bb03bc1fe2473b6d0117")]
 [assembly: System.Reflection.AssemblyProductAttribute("DESAFIO DE PROJETO DIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DESAFIO DE PROJETO DIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
